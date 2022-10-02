@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.preheader {
+    background-color: #111618;
+    height: 110px;
+    color: white;
+}
+
+.main-menu {
+    font-size: x-large;
+    list-style: none;
+}
+.preheader .main-menu li a {
+    color: whitesmoke;
+
+}
+.text {
+    font-size: 20px;
+}
+.login {
+    margin-top: 850px;
+    margin-left: 500px;
+}
